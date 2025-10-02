@@ -1,2 +1,5 @@
-a = 5 + 6 -7
-print (a)
+a = input()
+b = input()
+print (a+b)
+res = int(a) + int(b)
+print (res)
